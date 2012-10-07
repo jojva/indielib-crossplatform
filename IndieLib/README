@@ -24,7 +24,7 @@ Internally it uses Direct3d for hardware acceleration in Windows, and OpenGL on 
     Image class, for loading / saving different types of image files and for accessing to the bitmaps directly. You can also apply filters to the images like gaussian, noise, equalize, saturation, etc.
     Direct blitting of primitives (rectangles, circles, polygons, lines, etc).
     Mouse and keyboard input. Check if any key/button has been pressed, is being pressed or has been pressed more than n milliseconds. Check combination of keys/buttons that are pressed at the same time. 
-
+Test Joris 2
 
 -------------------- 2. HOW? ------------------------------------------------------------------------------
 BUILDING INDIELIB:
