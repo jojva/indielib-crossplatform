@@ -1,8 +1,6 @@
-Test Joris
-
 1. WHAT?
 -------------------- 2. WHAT?-----------------------------------------------------------------------------
-IndieLib is a c++ 2.5d engine for game development and fast game prototyping in a really easy way. 
+IndieDestruction volontaireLib is a c++ 2.5d engine for game development and fast game prototyping in a really easy way. 
 
 Internally it uses Direct3d for hardware acceleration in Windows, and OpenGL on other platforms. Also OpenGL ES is used for mobile platforms.
 
@@ -23,8 +21,7 @@ Internally it uses Direct3d for hardware acceleration in Windows, and OpenGL on 
     Entity class, for both 2d and 3d objects, for managing the graphical objects in a really easy way. Just create an entity, join a graphical object to it, an change it's attributes (space transformations, color transformations, etc).
     Image class, for loading / saving different types of image files and for accessing to the bitmaps directly. You can also apply filters to the images like gaussian, noise, equalize, saturation, etc.
     Direct blitting of primitives (rectangles, circles, polygons, lines, etc).
-    Mouse and keyboard input. Check if any key/button has been pressed, is being pressed or has been pressed more than n milliseconds. Check combination of keys/buttons that are pressed at the same time. 
-Test Joris 2
+    Mouse and keyboard input. Check if any key/button has been pressed, is being pressed or has been pressed more than n milliseconds. Check combination of keys/buttons that are pressed at the same time.
 
 -------------------- 2. HOW? ------------------------------------------------------------------------------
 BUILDING INDIELIB:
